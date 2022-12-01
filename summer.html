@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.2/dist/leaflet.css"
+        integrity="sha256-sA+zWATbFveLLNqWO2gtiw3HL/lh1giY/Inf1BJ0z14=" crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.9.2/dist/leaflet.js"
+        integrity="sha256-o9N1jGDZrf5tS+Ft4gbIK7mYMipq9lqpVJ91xHSyKhg=" crossorigin=""></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/colorbrewer.v1.min.js"></script>
+    <script src="summer.js"></script>
+    <script src="winter.js"></script>
+    <script src="plots.js"></script>
+    <style>
+        #scat {
+            position: absolute;
+            top: 5%;
+            width: 54%;
+            height: 80%;
+        }
+
+        #bar {
+            position: absolute;
+            top: 10%;
+            left: 35%;
+            width: 50%;
+            height: 80%;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <body style="background-color:rgb(247, 247, 247);"></body>
+    <div id="scat"></div>
+    <div id="bar"></div>
+    <button onclick="window.location.href='index.html';">
+        Map
+    </button>
+    <button onclick="window.location.href='winter.html';">
+        Bar and Scatter(winter)
+    </button>
+</body>
+
+</html>
