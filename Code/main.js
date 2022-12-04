@@ -2,7 +2,7 @@ function createGraph() {
 
     var barChart = d3.selectAll('#plot').append('svg').style('width', '100%').style('height', '100%');
     var width = 25;
-    var height = 7.9;
+    var height = 8;
     console.log(chicagoData['features']);
     var g = barChart.selectAll('.bar')
         .data(chicagoData['features'])
@@ -17,16 +17,16 @@ function createGraph() {
         .style('stroke-width', '1')
         .style('stroke', 'rgb(0,0,0)')
         .style('fill', 'rgb(255,255,255)')
-        .attr('x', 160)
-        .attr('y', (d, i) => { return 5 + (height + 5) * i })
+        .attr('x', 200)
+        .attr('y', (d, i) => { return 5 + (height + 7) * i })
         .attr('width', (d, i) => { return x(d['properties']['count']) })
         .attr('height', height)
         .attr('id', (d, i) => { return d['properties']['community']})
 
     g.append('text')
-        .style('fill', 'rgb(255,255,255)')
+        .style('fill', 'rgb(0,0,0)')
         .attr('x', 0)
-        .attr('y', (d, i) => { return 15 + (height + 5) * i })
+        .attr('y', (d, i) => { return 15 + (height + 7) * i })
         .text((d, i) => { return d['properties']['community']; })
 
     //****************  Map   ********************/
