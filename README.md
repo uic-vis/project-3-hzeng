@@ -61,7 +61,7 @@ In order to figure out what is essentially about the Taxi order amount, total tr
 # Interactive Visual Data Exploration
 
 ## Visualization MAP
-<div align=center><img width="500" height="200" src="https://github.com/uic-vis/project-3-hzeng/blob/main/Pictures/2.png"/></div>
+<div align=center><img width="1000" height="400" src="https://github.com/uic-vis/project-3-hzeng/blob/main/Pictures/2.png"/></div>
 ### Questions
 * Where is the most famous area for Chicago Taxi trips?
 
