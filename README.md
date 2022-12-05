@@ -4,14 +4,14 @@
 ## Background 
 This is a third project in class **CS424** - Visualization & Visual Analytics (Fall 2022)[Course project webpage](https://fmiranda.me/courses/cs424-fall-2022/project-3/)
 The goal of this project is to build a complete web-based visualization system leveraging outcomes from Project 1 and Project 2. We will use JavaScript and D3 to visualize and interactively analyze a dataset. Your visualization should be hosted on a publicly available website and you can use any web hosting service you prefer
-## Here is the {==link for our project==}
+## Here is the link for our project
 >[Chicago Taxi Web Page](https://hzeng98.github.io/)
 
 # **1 Interface**
 
 | INDEX | Description |
 | :---: | :----: |
-| <div align=center><img width="500" height="200" src="https://github.com/uic-vis/project-3-hzeng/blob/main/Pictures/1.png"/></div> | The basic interface of our website is as shown, click on the top of the page to go to the map, summer chart, winter chart page and questions page. Authors information and data are displayed at the bottom of the page |
+| <div align=center><img width="500" height="500" src="https://github.com/uic-vis/project-3-hzeng/blob/main/Pictures/1.png"/></div> | The basic interface of our website is as shown, click on the top of the page to go to the map, summer chart, winter chart page and questions page. Authors information and data are displayed at the bottom of the page |
 
 
 
