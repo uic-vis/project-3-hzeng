@@ -11,7 +11,7 @@ The goal of this project is to build a complete web-based visualization system l
 
 | INDEX | Description |
 | :---: | :----: |
-| <div align=center><img width="1000" height="500" src="https://github.com/uic-vis/project-3-hzeng/blob/main/Pictures/1.png"/></div> | The basic interface of our website is as shown, click on the top of the page to go to the map, summer chart, winter chart page and questions page. Authors information and data are displayed at the bottom of the page |
+| <div align=center><img width="7000" height="500" src="https://github.com/uic-vis/project-3-hzeng/blob/main/Pictures/1.png"/></div> | The basic interface of our website is as shown, click on the top of the page to go to the map, summer chart, winter chart page and questions page. Authors information and data are displayed at the bottom of the page |
 
 
 
