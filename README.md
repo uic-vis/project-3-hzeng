@@ -4,7 +4,7 @@
 ## Background 
 This is a third project in class **CS424** - Visualization & Visual Analytics (Fall 2022)[Course project webpage](https://fmiranda.me/courses/cs424-fall-2022/project-3/)
 The goal of this project is to build a complete web-based visualization system leveraging outcomes from Project 1 and Project 2. We will use JavaScript and D3 to visualize and interactively analyze a dataset. Your visualization should be hosted on a publicly available website and you can use any web hosting service you prefer
-## Here is the ==link for our project==
+## Here is the {==link for our project==}
 >[Chicago Taxi Web Page](https://hzeng98.github.io/)
 
 # **1 Interface**
