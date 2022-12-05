@@ -58,7 +58,7 @@ In order to figure out what is essentially about the Taxi order amount, total tr
 * How do the miles and total price change the total number of taxi?
 * How do the miles，seasons and total price change the taxi count in different places?
 
-# Interactive Visual Data Exploration
+# ** 4 Interactive Visual Data Exploration**
 
 ## Visualization MAP
 <div align=center><img width="1000" height="400" src="https://github.com/uic-vis/project-3-hzeng/blob/main/Pictures/2.png"/></div>
@@ -68,7 +68,7 @@ In order to figure out what is essentially about the Taxi order amount, total tr
 
 Firstly, we used a dataset of Chicago boundaries by community area. Aggregate by 'Pickup_Community_Area' : community area for the pick up location. The darker the red color in the map, the more people are taking cabs in that area, and the number of people is displayed in the upper right corner of the map, and the bar chart, which is a count of the number of people, is also highlighted. The most obvious ones are the Loop area and the O'Hare Airport area, so we selected these two areas as areas of interest for the next step of our study.
 
-## **4 Visualization interactive chart SUMMER & WINTER**
+##  Visualization interactive chart SUMMER & WINTER
 ### Questions
 * How do seasons change the number of Taxi?
 * How do trip miles change the total price?
