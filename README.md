@@ -49,7 +49,7 @@ The dataset containing the Trips in each Community Area information had the foll
 
 
 
-# **3. Questions**
+# **3 Questions**
 
 In order to figure out what is essentially about the Taxi order amount, total trips price and even the Tips the customers offer, which is our interesting. we come up with 5 questions
 * Where is the most famous area for Chicago Taxi trips?
@@ -68,7 +68,7 @@ In order to figure out what is essentially about the Taxi order amount, total tr
 
 Firstly, we used a dataset of Chicago boundaries by community area. Aggregate by 'Pickup_Community_Area' : community area for the pick up location. The darker the red color in the map, the more people are taking cabs in that area, and the number of people is displayed in the upper right corner of the map, and the bar chart, which is a count of the number of people, is also highlighted. The most obvious ones are the Loop area and the O'Hare Airport area, so we selected these two areas as areas of interest for the next step of our study.
 
-## Visualization interactive chart SUMMER & WINTER
+## **4 Visualization interactive chart SUMMER & WINTER**
 ### Questions
 * How do seasons change the number of Taxi?
 * How do trip miles change the total price?
