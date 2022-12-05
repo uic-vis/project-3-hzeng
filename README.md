@@ -108,6 +108,6 @@ Passengers at airports generally travel longer and more expensive distances than
 | ------ | ------ |
 | Choropleth Map |https://datavizcatalogue.com/methods/choropleth.html|
 | GitHub |https://github.com/ |
-| Leaflet Draw Library Links |https://cdnjs.com/libraries/leaflet.draw |
-| Web Master | https://sc.chinaz.com/moban/ |
+| Observable |https://observablehq.com/ |
+| China Web Master | https://sc.chinaz.com/moban/ |
 | DILLINGER |https://dillinger.io/ |
