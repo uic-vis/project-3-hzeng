@@ -58,7 +58,7 @@ In order to figure out what is essentially about the Taxi order amount, total tr
 * How do the miles and total price change the total number of taxi?
 * How do the miles，seasons and total price change the taxi count in different places?
 
-# ** 4 Interactive Visual Data Exploration**
+# **4 Interactive Visual Data Exploration**
 
 ## Visualization MAP
 <div align=center><img width="1000" height="400" src="https://github.com/uic-vis/project-3-hzeng/blob/main/Pictures/2.png"/></div>
